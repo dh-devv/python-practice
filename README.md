@@ -8,6 +8,7 @@ CS high school student Python beginner practice
 -day03: condition 사용
 -day04: if-input 사용
 -day05: for-loop 사용
+-day06: 조건문 복습
 
 ##Goal
 
