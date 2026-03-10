@@ -3,13 +3,14 @@ CS high school student Python beginner practice
 
 ##study Progress
 
--day01: print 사용
--day02: input 사용
--day03: condition 사용
--day04: if-input 사용
--day05: for-loop 사용
--day06: 조건문 복습
--day07: 반복문 복습
+Week01 (day01~day07)
+-print,input 사용
+-condition 사용 ( 조건문)
+-for-loop 사용 (for 반복문)
+-복습
+
+Week02 (day08~day14)
+nested 사용 ( 중첩 반복문 )
 
 
 ##Goal
