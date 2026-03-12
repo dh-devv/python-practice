@@ -10,7 +10,8 @@ Week01 (day01~day07)
 -복습
 
 Week02 (day08~day14)
-nested 사용 ( 중첩 반복문 )
+-nested 사용 ( 중첩 반복문 )
+- 총 복습 (day01~day08)
 
 
 ##Goal
