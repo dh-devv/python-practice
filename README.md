@@ -13,6 +13,7 @@ Week02 (day08~day14)
 -nested 사용 ( 중첩 반복문 )
 - 총 복습 (day01~day08)
 - random 모듈 사용한 프로그램
+- time 모듈 사용한 타이머 프로그램
 
 ##Goal
 
