@@ -1,26 +1,49 @@
-# Python practice
+# Python Practice Journey
 CS high school student Python beginner practice
 
-##study Progress
+---
+## Week 1 (day01 ~ day07)
+기초 문법 학습
 
-Week01 (day01~day07)
--print,input 사용
--condition 사용 ( 조건문)
--for-loop 사용 (for 반복문)
--복습
+- 출력 및 입력 (print, input)
+- 조건문 (if)
+- 반복문 (for)
+- 기본 문법 학습
 
-Week02 (day08~day14)
--nested 사용 ( 중첩 반복문 )
-- 총 복습 (day01~day08)
-- random 모듈 사용한 프로그램
-- time 모듈 사용한 타이머 프로그램
-- list 사용해서 만든 과일바구니
+---
+## Week 2 (day08 ~ day14)
+문법 응용 및 간단한 프로그램 제작
+
+- 중첩 반복문
+- random 모듈 활용 (숫자 생성)
+- time 모듈 활용 ( 타이머 프로그램)
+- 리스트 활용
+- 숫자 맞추기 게임 구현
+- 학생 점수 관리 프로그램 제작
+
+---
+## Week 3 (day15 ~ day 21)
+간단한 프로젝트 개발
+
+-이름 리스트 프로그램
+-연락처 관리 프로그램
+-숫자 야구 게임(Strike / Ball 로직 구현)
+
+---
+## What I Learned
+
+-Python 기본 문법 이해 (조건문,반복문,리스트)
+-간단한 프로그램을 직접 설계 및 구현 경험
+-문제 해결을 위한 로직 구성 능력 향상
+
+---
 ##Goal
 
--파이썬 기초 문법 익히기
--문제 해결 능력 향상시키기
--꾸준하게 코딩하기
+-파일 저장 기능 구현
+-클래스 / 객체지향 프로그래밍 학습
+-어려운 프로그램 개발
 
+---
 ##Author
 
 CS High School Student
