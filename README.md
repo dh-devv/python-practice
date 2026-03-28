@@ -29,6 +29,8 @@ CS high school student Python beginner practice
 -연락처 관리 프로그램
 -숫자 야구 게임(Strike / Ball 로직 구현)
 -리스트 슬라이싱 활용(list)
+-2차원 리스트 활용(2D list)
+-리스트 함축 학습
 
 ---
 ## What I Learned
