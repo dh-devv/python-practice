@@ -29,6 +29,13 @@ CS high school student Python Beginner practice
 -sum,max,min 등의 내장함수를 활용한 계산 프로그램 제작
 
 ---
+## Week 4 (day22~ day28)
+종합 프로젝트 및 문법 심화
+
+-일정 추가·조회·삭제가 가능한 종합 프로그램 제작(CRUD)
+-인덱스 번호 기반의 데이터 제어와 무한 루프 메뉴 로직 심화 학습
+
+---
 ## What I Learned
 
 -Python 기본 문법 이해 (조건문,반복문,리스트)
