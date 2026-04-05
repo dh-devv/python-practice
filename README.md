@@ -39,6 +39,7 @@ CS high school student Python Beginner practice
 - set 합집합(|), 교집합(&), 차집합(-)을 통한 데이터 필터링 학습(day25)
 - set 를 활용하여, 최대공약수를 구하는 프로그램 제작 (day25-2)
 - def 함수와 if-elif-else 를 활용한 숫자 판별 프로그램(0,짝수,홀수) 제작 (day26)
+- def 함수와 리스트 함축, 슬라이싱 을 활용한 종합 성적 처리 프로그램 제작 (day26-2)
 
 ---
 ## What I Learned
