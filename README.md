@@ -40,7 +40,12 @@ CS high school student Python Beginner practice
 - set 를 활용하여, 최대공약수를 구하는 프로그램 제작 (day25-2)
 - def 함수와 if-elif-else 를 활용한 숫자 판별 프로그램(0,짝수,홀수) 제작 (day26)
 - def 함수와 리스트 함축, 슬라이싱 을 활용한 종합 성적 처리 프로그램 제작 (day26-2)
+- def 함수와 리스트(append, sum)를 활용한 사용자 맞춤형 지출 내역 합산 프로그램 제작 (day27)
+- 딕셔너리(서버 상태), 세트(OS 중복 제거), 튜플(관리자 정보)을 활용한 인프라 관리 기초 실습 (day28)
 
+---
+## Week 5 (day29~ day35)
+- 딕셔너리 복습 및 자료구조 실습 프로그램 제작 (시험 기간 공백기 복습, day29)
 ---
 ## What I Learned
 
