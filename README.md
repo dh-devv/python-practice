@@ -46,6 +46,7 @@ CS high school student Python Beginner practice
 ---
 ## Week 5 (day29~ day35)
 - 딕셔너리 복습 및 자료구조 실습 프로그램 제작 (시험 기간 공백기 복습, day29)
+- 자료 구조와 조건문, 반복문을 활용해서 제작한 서버 과부화 모니터링 프로그램 (day30)
 ---
 ## What I Learned
 
