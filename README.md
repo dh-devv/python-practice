@@ -1,6 +1,13 @@
 # Python Practice Journey
 CS high school student Python Beginner practice
 
+
+# 폴더 구조
+- basic : 기초 문법
+- data-structure : 자료구조
+- function : 함수와 클래스
+- mini-project : 작은 프로젝트
+
 ---
 ## Week 1 (day01 ~ day07)
 기초 문법 학습
@@ -47,6 +54,7 @@ CS high school student Python Beginner practice
 ## Week 5 (day29~ day35)
 - 딕셔너리 복습 및 자료구조 실습 프로그램 제작 (시험 기간 공백기 복습, day29)
 - 자료 구조와 조건문, 반복문을 활용해서 제작한 서버 과부화 모니터링 프로그램 (day30)
+- Point / Circle 클래스를 활용한 객체지향 프로그래밍 기초 학습 (day31)
 ---
 ## What I Learned
 
@@ -55,13 +63,13 @@ CS high school student Python Beginner practice
 - 문제 해결을 위한 로직 구성 능력 향상
 
 ---
-##Goal
+## Goal
 
 - 파일 저장 기능 구현
 - 클래스 / 객체지향 프로그래밍 학습
 - 어려운 프로그램 개발
 
 ---
-##Author
+## Author
 
 CS High School Student
