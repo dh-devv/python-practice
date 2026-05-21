@@ -56,6 +56,7 @@ CS high school student Python Beginner practice
 - 자료 구조와 조건문, 반복문을 활용해서 제작한 서버 과부화 모니터링 프로그램 (day30)
 - Point / Circle 클래스를 활용한 객체지향 프로그래밍 기초 학습 (day31)
 - tkinter를 활용한 간단한 GUI 학습 (day32)
+- 프로그래머스 배열 비교하기 문제 풀이 (day33)
 ---
 ## What I Learned
 
