@@ -57,6 +57,7 @@ CS high school student Python Beginner practice
 - Point / Circle 클래스를 활용한 객체지향 프로그래밍 기초 학습 (day31)
 - tkinter를 활용한 간단한 GUI 학습 (day32)
 - 프로그래머스 배열 비교하기 문제 풀이 (day33)
+- 클래스와 리스트를 활용한 학교 성적 관리 프로그램 제작 (day34)
 ---
 ## What I Learned
 
