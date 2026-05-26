@@ -58,6 +58,8 @@ CS high school student Python Beginner practice
 - tkinter를 활용한 간단한 GUI 학습 (day32)
 - 프로그래머스 배열 비교하기 문제 풀이 (day33)
 - 클래스와 리스트를 활용한 학교 성적 관리 프로그램 제작 (day34)
+- 로그인 기능과 터미널 명령어(ls, mkdir, pwd)를 구현한 Linux 클래스 프로그램 제작 (day35)
+
 ---
 ## What I Learned
 
