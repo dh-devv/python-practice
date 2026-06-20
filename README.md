@@ -59,6 +59,7 @@ CS high school student Python Beginner practice
 - 프로그래머스 배열 비교하기 문제 풀이 (day33)
 - 클래스와 리스트를 활용한 학교 성적 관리 프로그램 제작 (day34)
 - 로그인 기능과 터미널 명령어(ls, mkdir, pwd)를 구현한 Linux 클래스 프로그램 제작 (day35)
+- while True 와 commands 딕셔너리를 활용한 Linux 터미널 프로그램 업그레이드 (day36)
 
 ---
 ## What I Learned
