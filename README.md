@@ -62,6 +62,7 @@ CS high school student Python Beginner practice
 - while True 와 commands 딕셔너리를 활용한 Linux 터미널 프로그램 업그레이드 (day36)
 - 리스트와 예외 처리, while 반복문을 활용한 주식 수익률 계산 프로그램 제작 (day37)
 - 딕셔너리의 생성, 조회, 추가, 삭제 및 반복문 사용법 학습 (day38)
+- 클래스와 객체를 활용한 학생 성적 관리 프로그램 연습 (day39)
 
 ---
 ## What I Learned
