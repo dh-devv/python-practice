@@ -20,6 +20,8 @@ CS high school student Python Beginner practice
 | Week 4 | CRUD 프로그램, 딕셔너리, 세트, 함수 활용 프로그램 |
 | Week 5 | 클래스, 객체지향 프로그래밍, tkinter GUI, 알고리즘 문제 |
 | Week 6 | Ubuntu Linux 실습 프로그램,수익 수익률 계산 프로그램 등 다양한 프로그램과 CodeUp 1805 문제 풀이, 예외 처리를 활용한 프로그램 제작, 클래스와 객체를 활용한 동물 키우기 프로그램 제작 |
+| Week 7 | MODI 모듈과 `modi_plus` 라이브러리를 활용해 입력 / 출력 장치의 제어 흐름을 실습함 |
+
 
 자세한 학습 기록은 [`Learning-Log`](./Learning-Log.md)에 정리했습니다.
 
