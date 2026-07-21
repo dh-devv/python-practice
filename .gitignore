@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# Visual Studio / IDE 설정 및 임시 파일 제외
+.vs/
+
+# 파이썬 캐시 파일 제외 (나중에 생길 수 있으니 미리 추가)
+__pycache__/
+*.pyc
+
+
 # Distribution / packaging
 .Python
 build/

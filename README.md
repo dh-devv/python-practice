@@ -12,6 +12,7 @@ CS high school student Python Beginner practice
 - data-structure : 자료구조
 - function : 함수와 클래스
 - mini-project : 작은 프로젝트
+- review : Python 기초부터 다시 복습하며 작성한 코드
 - algorithm : CodeUp, 프로그래머스 등 문제 풀이
 - Learning-Log : 파일에 대한 학습 기록
 
@@ -27,7 +28,7 @@ CS high school student Python Beginner practice
 | Week 4 | CRUD 프로그램, 딕셔너리, 세트, 함수 활용 프로그램 제작 |
 | Week 5 | 클래스, 객체지향 프로그래밍, tkinter GUI, 알고리즘 문제 풀이 |
 | Week 6 | Ubuntu Linux 실습 프로그램, 주식 수익률 계산 프로그램, 클래스 기반 학생 성적 관리 프로그램, 예외 처리를 활용한 프로그램 제작 |
-| Week 7 | MODI 모듈과 `modi_plus` 라이브러리를 활용한 피지컬 컴퓨팅 실습, 클래스 기반 `WordQuiz` 프로그램 제작, 함수 활용 및 알고리즘 구현 연습 |
+| Week 7 | MODI 모듈과 `modi_plus` 라이브러리를 활용한 피지컬 컴퓨팅 실습, 클래스 기반 `WordQuiz` 프로그램 제작, 함수 활용 및 알고리즘 구현 연습, Python 기초 복습 ( 출력, 변수, 연산자, 제어문, 리스트) |
 
 자세한 학습 기록은 [`Learning-Log`](./Learning-Log.md)에 정리했습니다.
 
@@ -65,6 +66,7 @@ CS high school student Python Beginner practice
   - 소수 판별 알고리즘
 
 - 간단한 프로젝트를 직접 설계하고 구현하며 문제 해결 능력 향상
+- Python 문법을 다시 복습하며 개념 재정리
 
 ---
 
