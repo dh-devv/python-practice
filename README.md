@@ -16,7 +16,7 @@ CS High School Student Python Beginner Practice Repository
 - **mini-project** : Python을 활용한 작은 프로젝트
 - **review** : Python 기초부터 객체지향(OOP)까지 다시 복습하며 개념을 정리한 코드
 - **algorithm** : CodeUp, 프로그래머스 등 알고리즘 문제 풀이
-- **crawling** : Python 크롤링 실습 및 프로젝트
+- **crawling** : Selenium을 활용한 웹 크롤링 및 데이터 수집 실습
 - **Learning-Log** : 날짜별 학습 기록
 
 ---
@@ -31,7 +31,8 @@ CS High School Student Python Beginner Practice Repository
 | Week 4 | CRUD 프로그램, 딕셔너리, 세트, 함수 활용 프로그램 제작 |
 | Week 5 | 클래스, 객체지향 프로그래밍, tkinter GUI, 알고리즘 문제 풀이 |
 | Week 6 | Ubuntu Linux 실습 프로그램, 주식 수익률 계산 프로그램, 클래스 기반 학생 성적 관리 프로그램, 예외 처리를 활용한 프로그램 제작 |
-| Week 7 | MODI 모듈과 `modi_plus` 라이브러리를 활용한 피지컬 컴퓨팅 실습, 클래스 기반 `WordQuiz` 프로그램 제작, 함수 활용 및 알고리즘 구현 연습, Python 기초 복습 (출력, 변수, 연산자, 제어문, 리스트) |
+| Week 7 | MODI 모듈 활용, Python 기초 복습, 객체지향 복습 |
+| **Week 8** | **Selenium 웹 크롤링, XPath 활용, pandas DataFrame, Excel 저장, 코드 리팩토링** |
 
 자세한 학습 기록은 [`Learning-Log`](./Learning-Log.md)에 정리했습니다.
 
@@ -39,13 +40,22 @@ CS High School Student Python Beginner Practice Repository
 
 # Current Focus
 
-현재는 Python 기초부터 객체지향(OOP)까지 다시 복습하며
-학습 내용을 체계적으로 정리하고 있습니다.
+현재는 Python 기초를 복습하며 실제 프로젝트에 활용하는 연습을 진행하고 있습니다.
 
-복습이 완료되면 다음 순서로 프로젝트를 진행할 예정입니다.
+최근에는 **Selenium을 이용한 웹 크롤링**을 학습하며,
 
-1. Python 크롤링
-2. 업무 자동화 프로그램
+- 웹 브라우저 자동화
+- XPath를 이용한 데이터 추출
+- 반복문을 활용한 크롤링
+- pandas를 이용한 데이터 처리
+- Excel 파일 저장
+
+과정을 실습하고 있습니다.
+
+앞으로는 다음과 같은 프로젝트를 진행할 예정입니다.
+
+1. Python 업무 자동화 프로그램
+2. 데이터베이스 연동 프로젝트
 3. Linux 서버 배포
 4. AWS를 활용한 클라우드 배포
 
@@ -86,6 +96,17 @@ CS High School Student Python Beginner Practice Repository
 - `finally`
 - 사용자 정의 예외 처리
 
+## Web Crawling
+- Selenium WebDriver
+- ChromeDriver
+- XPath
+- HTML 요소 탐색
+- Web 자동화
+- 반복문을 활용한 데이터 수집
+- pandas DataFrame
+- Excel 파일 생성 (`to_excel`)
+- 코드 리팩토링
+
 ## Algorithms
 - 최대공약수(GCD)
 - 최소공배수(LCM)
@@ -100,6 +121,7 @@ CS High School Student Python Beginner Practice Repository
 - WordQuiz 프로그램
 - Ubuntu Linux 실습 프로그램
 - 주식 수익률 계산 프로그램
+- 학교 공지사항 크롤링 프로그램
 
 ## Others
 - Python 문법 전체 복습
@@ -112,9 +134,9 @@ CS High School Student Python Beginner Practice Repository
 
 - Python 문법 완전 숙달
 - 객체지향 프로그래밍 심화 학습
-- 크롤링 및 자동화 프로젝트 제작
+- Selenium을 활용한 웹 크롤링
+- 업무 자동화 프로그램 제작
 - 데이터베이스와 연동되는 프로그램 개발
-- 예외 처리가 포함된 안정적인 프로그램 제작
 - Linux 서버 및 AWS를 활용한 배포 경험
 - 알고리즘 문제 해결 능력 향상
 
