@@ -31,8 +31,7 @@ CS High School Student Python Beginner Practice Repository
 | Week 4 | CRUD 프로그램, 딕셔너리, 세트, 함수 활용 프로그램 제작 |
 | Week 5 | 클래스, 객체지향 프로그래밍, tkinter GUI, 알고리즘 문제 풀이 |
 | Week 6 | Ubuntu Linux 실습 프로그램, 주식 수익률 계산 프로그램, 클래스 기반 학생 성적 관리 프로그램, 예외 처리를 활용한 프로그램 제작 |
-| Week 7 | MODI 모듈 활용, Python 기초 복습, 객체지향 복습 |
-| **Week 8** | **Selenium 웹 크롤링, XPath 활용, pandas DataFrame, Excel 저장, 코드 리팩토링** |
+| **Week 7** | **MODI 모듈 활용, Python 기초 복습, 객체지향 복습, Selenium 웹 크롤링, XPath 활용, pandas DataFrame, Excel 저장, 함수와 클래스를 활용한 학생 성적 관리 프로그램 리팩토링** |
 
 자세한 학습 기록은 [`Learning-Log`](./Learning-Log.md)에 정리했습니다.
 
