@@ -31,7 +31,8 @@ CS High School Student Python Beginner Practice Repository
 | Week 4 | CRUD 프로그램, 딕셔너리, 세트, 함수 활용 프로그램 제작 |
 | Week 5 | 클래스, 객체지향 프로그래밍, tkinter GUI, 알고리즘 문제 풀이 |
 | Week 6 | Ubuntu Linux 실습 프로그램, 주식 수익률 계산 프로그램, 클래스 기반 학생 성적 관리 프로그램, 예외 처리를 활용한 프로그램 제작 |
-| **Week 7** | **MODI 모듈 활용, Python 기초 복습, 객체지향 복습, Selenium 웹 크롤링, XPath 활용, pandas DataFrame, Excel 저장, 함수와 클래스를 활용한 학생 성적 관리 프로그램 리팩토링** |
+| Week 7 | MODI 모듈 활용, Python 기초 복습, 객체지향 복습, Selenium 웹 크롤링, XPath 활용, pandas DataFrame, Excel 저장, 함수와 클래스를 활용한 학생 성적 관리 프로그램 리팩토링 |
+| **Week 8** | **전국상업경진대회 대비 알고리즘 문제 풀이, 진수 변환, 문자열 처리, 동적 계획법(DP), 미로 탐색, 그래프 탐색 및 DFS, 2023~2025년 전국상업경진대회 기출 문제 풀이** |
 
 자세한 학습 기록은 [`Learning-Log`](./Learning-Log.md)에 정리했습니다.
 
@@ -39,17 +40,25 @@ CS High School Student Python Beginner Practice Repository
 
 # Current Focus
 
-현재는 Python 기초를 복습하며 실제 프로젝트에 활용하는 연습을 진행하고 있습니다.
+현재는 전국상업경진대회를 대비하여 알고리즘 문제 풀이를 집중적으로 진행하고 있습니다.
 
-최근에는 **Selenium을 이용한 웹 크롤링**을 학습하며,
+최근에는 **알고리즘 문제 해결 능력 향상**을 목표로 2023년부터 2025년까지의 전국상업경진대회 기출 문제를 풀이하며 다음과 같은 내용을 학습하고 있습니다.
 
-- 웹 브라우저 자동화
-- XPath를 이용한 데이터 추출
-- 반복문을 활용한 크롤링
-- pandas를 이용한 데이터 처리
-- Excel 파일 저장
+- 2차원 배열을 활용한 데이터 처리
+- 반복문과 조건문을 활용한 문제 해결
+- 문자열 처리 및 문자 변환
+- 진수 변환
+- 동적 계획법(Dynamic Programming)
+- 미로 탐색
+- 그래프 탐색
+- 깊이 우선 탐색(DFS)
+- 스택(Stack)과 방문 배열 활용
+- 문제의 조건을 알고리즘으로 변환하는 방법
+- 기존 코드의 오류 수정 및 리팩토링
 
-과정을 실습하고 있습니다.
+등을 학습하고 있습니다.
+
+풀이한 문제는 `algorithm/commercial-contest` 폴더에 Day별로 정리하고 있으며, README를 통해 문제별 풀이 파일을 관리하고 있습니다.
 
 앞으로는 다음과 같은 프로젝트를 진행할 예정입니다.
 
@@ -63,6 +72,7 @@ CS High School Student Python Beginner Practice Repository
 # What I Learned
 
 ## Python Basics
+
 - 입력 / 출력
 - 변수와 자료형
 - 연산자
@@ -71,17 +81,20 @@ CS High School Student Python Beginner Practice Repository
 - 파일 입출력
 
 ## Data Structure
+
 - List
 - Tuple
 - Dictionary
 - Set
 
 ## Functions
+
 - 함수 작성 및 호출
 - 메서드 활용
 - 코드 재사용성 향상
 
 ## Object-Oriented Programming
+
 - 클래스와 객체
 - 생성자
 - 인스턴스 변수
@@ -89,6 +102,7 @@ CS High School Student Python Beginner Practice Repository
 - 상속
 
 ## Exception Handling
+
 - `try`
 - `except`
 - `else`
@@ -96,6 +110,7 @@ CS High School Student Python Beginner Practice Repository
 - 사용자 정의 예외 처리
 
 ## Web Crawling
+
 - Selenium WebDriver
 - ChromeDriver
 - XPath
@@ -107,12 +122,20 @@ CS High School Student Python Beginner Practice Repository
 - 코드 리팩토링
 
 ## Algorithms
+
 - 최대공약수(GCD)
 - 최소공배수(LCM)
 - 팩토리얼
 - 소수 판별 알고리즘
+- 동적 계획법(Dynamic Programming)
+- 미로 탐색
+- 그래프 탐색
+- 깊이 우선 탐색(DFS)
+- 스택(Stack)
+- 방문 배열(Visited)
 
 ## Projects
+
 - CRUD 프로그램
 - 연락처 관리 프로그램
 - 숫자 야구 게임
@@ -123,9 +146,11 @@ CS High School Student Python Beginner Practice Repository
 - 학교 공지사항 크롤링 프로그램
 
 ## Others
+
 - Python 문법 전체 복습
 - GitHub를 활용한 학습 기록 관리
 - 문제 해결 능력 및 코드 구조 개선
+- 알고리즘 문제 풀이 및 디버깅
 
 ---
 
