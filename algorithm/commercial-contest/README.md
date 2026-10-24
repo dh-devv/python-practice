@@ -17,29 +17,29 @@
 
 ## Day 01
 
-- [Problem 01](./Day01/problem01.py)
-- [Problem 02](./Day01/problem02.py)
-- [Problem 03](./Day01/problem03.py)
-- [Problem 04](./Day01/problem04.py)
-- [Problem 05](./Day01/problem05.py)
+- [Problem 01](./Day01/01_problem01.py)
+- [Problem 02](./Day01/02_problem02.py)
+- [Problem 03](./Day01/03_problem03.py)
+- [Problem 04](./Day01/04_problem04.py)
+- [Problem 05](./Day01/05_problem05.py)
 
 ## Day 02
 
-- [Problem 01](./Day02/problem01.py)
-- [Problem 02](./Day02/problem02.py)
-- [Problem 03](./Day02/problem03.py)
-- [Problem 04](./Day02/problem04.py)
-- [Problem 05](./Day02/problem05.py)
+- [Problem 01](./Day02/01_problem01.py)
+- [Problem 02](./Day02/02_problem02.py)
+- [Problem 03](./Day02/03_problem03.py)
+- [Problem 04](./Day02/04_problem04.py)
+- [Problem 05](./Day02/05_problem05.py)
 
 ### Day03
 
-- [Problem 02](./Day03/problem02.py)
+- [Problem 02](./Day03/01_problem02.py)
 
 ### Day04
 
-- [Problem 01](./Day04/problem01.py)
-- [Problem 02](./Day04/problem02.py)
-- [Problem 03](./Day04/problem03.py)
+- [Problem 01](./Day04/01_problem01.py)
+- [Problem 02](./Day04/02_problem02.py)
+- [Problem 03](./Day04/03_problem03.py)
 
 
 

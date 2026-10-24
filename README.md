@@ -19,6 +19,8 @@ CS High School Student Python Beginner Practice Repository
 - **crawling** : Selenium을 활용한 웹 크롤링 및 데이터 수집 실습
 - **Learning-Log** : 날짜별 학습 기록
 
+Python 파일은 각 폴더 안에서 기존 파일명 순서대로 `01_`, `02_`와 같이 번호를 붙여 관리합니다. 기존 파일명의 `day` 접두어는 제거하고, 폴더가 다르면 번호를 다시 시작합니다.
+
 ---
 
 # Learning Progress
@@ -40,25 +42,9 @@ CS High School Student Python Beginner Practice Repository
 
 # Current Focus
 
-현재는 전국상업경진대회를 대비하여 알고리즘 문제 풀이를 집중적으로 진행하고 있습니다.
+현재는 프로그래머스 코딩 테스트 문제를 풀며 알고리즘 문제 해결 능력을 키우고 있습니다. 문제의 조건을 분석하고 적절한 자료구조와 풀이 방법을 선택하는 연습을 이어가고 있습니다.
 
-최근에는 **알고리즘 문제 해결 능력 향상**을 목표로 2023년부터 2025년까지의 전국상업경진대회 기출 문제를 풀이하며 다음과 같은 내용을 학습하고 있습니다.
-
-- 2차원 배열을 활용한 데이터 처리
-- 반복문과 조건문을 활용한 문제 해결
-- 문자열 처리 및 문자 변환
-- 진수 변환
-- 동적 계획법(Dynamic Programming)
-- 미로 탐색
-- 그래프 탐색
-- 깊이 우선 탐색(DFS)
-- 스택(Stack)과 방문 배열 활용
-- 문제의 조건을 알고리즘으로 변환하는 방법
-- 기존 코드의 오류 수정 및 리팩토링
-
-등을 학습하고 있습니다.
-
-풀이한 문제는 `algorithm/commercial-contest` 폴더에 Day별로 정리하고 있으며, README를 통해 문제별 풀이 파일을 관리하고 있습니다.
+풀이한 코드는 [`algorithm`](./algorithm/) 폴더에 정리하고 있습니다. 이전에 학습한 전국상업경진대회 기출 문제도 [`algorithm/commercial-contest`](./algorithm/commercial-contest/)에서 확인할 수 있습니다.
 
 앞으로는 다음과 같은 프로젝트를 진행할 예정입니다.
 
